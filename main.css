@@ -1,0 +1,55 @@
+.search {
+    width:300px;
+    position:absolute;
+    right:100px;
+    bottom:650px;
+}
+.header h2 {
+    display:block;
+    margin-right:50px;
+}
+input {
+    width:100%;
+    border:1px solid #bbb;
+    padding:10px 12px;
+    font-size:14px;
+}
+.search img {
+    position: absolute;
+    width:17px;
+    top:10px;
+    right:5px;
+}
+h1 {
+    color:#bbe309;
+    text-align: center;
+    margin:0 auto;
+    padding:10px;
+}
+
+.box {
+    text-align: center;
+    width:500px;
+    margin:0 auto;
+    background-color:#bbe309;
+    padding:10px;
+}
+img {
+    width:80%;
+}
+table {
+    margin:auto;
+    border:1px solid;
+    border-collapse: collapse;
+    
+}
+th, td {
+    border:1px solid #444444;
+    padding:10px;
+    margin:0 auto;
+
+}
+td {
+    background-color:black;
+    color:#bbe309;
+}
